@@ -1,0 +1,79 @@
+body{
+	font-family: arial, sans-serif;
+	background: linear-gradient(to right, rgb(29, 106, 207), rgb(110, 25, 143));
+	text-align: center;
+	color: white ;
+	margin: 0px;
+	min-width: 10vw;
+	max-width: 3000px;
+}
+
+	.container{
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-120%,-50%);
+		width: 35%;
+		background-color: rgba(0, 0, 0, 0.5);
+		padding: 1em;
+		border-radius: 10px;
+	}
+
+	button{
+		background-color: slateblue;
+		color: white;
+		border:  none;
+		padding: 1em;
+		border-radius: 10px;
+		box-shadow: 1px 1px 6px black;
+		cursor: pointer;
+	}
+
+	button:hover{
+		background-color: steelblue;
+	}
+
+	.final-step,
+	.second-step{
+		display: none;
+	}
+	input{
+		padding: 5px;
+		border-radius: 5px;
+		border:  none;
+		outline-color: none
+	}
+
+	table{
+		text-align: center;
+		width: 50%;
+		background-color: rgba(0, 0, 0, 0.5);
+		transform: translate(90%,90%);
+		padding: 5px;
+		white-space: pre-wrap;
+		border-radius: 10px;
+		border: none;
+		margin:
+
+	}
+
+	footer{
+		position: absolute;
+		bottom: 0;
+		background-color: rgba(0, 0, 0, 0.5);
+		width: 100%;
+		height: 100px;
+		text-align: center;
+		line-height: 90px;
+	}
+	@media only screen and (max-device-width:1000px);{
+
+	
+	@media only screen and (min-device-width:100vw);}
+
+	.id-resultado{
+
+	
+		font size: 20px;
+
+	}
